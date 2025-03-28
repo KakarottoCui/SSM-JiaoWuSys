@@ -1,7 +1,7 @@
 # SSM-JiaoWuSys
 基于SSM框架的教务管理系统
 
-演示视频链接：https://live.csdn.net/v/238530
+演示视频链接：https://www.bilibili.com/video/BV1zB4y1n74f/
 
 详询 微信1：egvh56ufy7hh ，微信2：dabocode 。承接商业项目、课设、毕设和论文，包括但不限于Web、APP、小程序等，课设、毕设提供远程部署和不限次数代码解答！
 
